@@ -1,1 +1,1 @@
-<h1> Praise the god </h1>
+<h1> Welcome to the kubernetes Cluster app  </h1>
