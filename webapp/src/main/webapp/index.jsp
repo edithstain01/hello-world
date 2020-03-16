@@ -1,1 +1,1 @@
-<h1> Thank you GOD </h1>
+<h1>Welcome to simple devops project </h1>
